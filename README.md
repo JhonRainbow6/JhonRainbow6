@@ -7,8 +7,7 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=JhonRainbow6&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=en&hide_border=false" height="200" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=JhonRainbow6&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=tokyonight&hide_border=false" height="200" alt="languages graph"  />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=JhonRainbow6&show_icons=true&locale=en&layout=compact&theme=tokyonight&hide_border=true" alt="JhonRainbow6" height="200"/>
 </div>
 
 ###
