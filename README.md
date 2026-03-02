@@ -2,7 +2,7 @@
 
 ###
 
-<h4 align="center">So this is my GitHub repo where I upload my projects and stuff, be free to take a look in it.</h4>
+<h4 align="center">So this is my GitHub repo where I upload my projects and stuff, be free to take a look at it.</h4>
 
 ###
 
