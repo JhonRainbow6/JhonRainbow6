@@ -5,7 +5,6 @@
 <h4 align="center">So this is my GitHub repo where I upload my projects and stuff, be free to take a look at it.</h4>
 
 
-
 <div align="center">
   <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black&style=for-the-badge" height="35" alt="react logo"  />
   <img width="12" />
@@ -47,7 +46,7 @@
 ###
 
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=JhonRainbow6.JhonRainbow6&"  />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=JhonRainbow6&show_icons=true&locale=en&layout=compact&theme=tokyonight&hide_border=true" alt="JhonRainbow6" height="200"/>
 </div>
 
 ###
@@ -55,7 +54,7 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=JhonRainbow6&show_icons=true&locale=en&layout=compact&theme=tokyonight&hide_border=true" alt="JhonRainbow6" height="200"/>
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=JhonRainbow6.JhonRainbow6&"  />
 </div>
 
 ###
