@@ -46,14 +46,6 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=JhonRainbow6&show_icons=true&locale=en&layout=compact&theme=tokyonight&hide_border=true" alt="JhonRainbow6" height="200"/>
-</div>
-
-###
-
-###
-
-<div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=JhonRainbow6.JhonRainbow6&"  />
 </div>
 
